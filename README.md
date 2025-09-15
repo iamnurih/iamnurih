@@ -13,9 +13,10 @@ My background is in human languages, but now I’m diving into the world of **ma
    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
    </p>
 - 🌱 Learning (soon to be 🛠️ Tech Stack):     <p>
-   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
+
    <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white" />
    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
       
